@@ -1,0 +1,4 @@
+com.amit.studentmanager:mipmap/ic_launcher = 0x7f030000
+com.amit.studentmanager:drawable/ic_student_manager_foreground = 0x7f020000
+com.amit.studentmanager:string/app_name = 0x7f040000
+com.amit.studentmanager:color/ic_launcher_background = 0x7f010000

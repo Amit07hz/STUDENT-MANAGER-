@@ -1,0 +1,48 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.amit.studentmanager"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:2:5-67
+11-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:2:22-64
+12
+13    <application
+13-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:3:5-10:19
+14        android:allowBackup="true"
+14-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:3:18-44
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:3:77-111
+18        android:label="Student Manager"
+18-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:3:45-76
+19        android:theme="@android:style/Theme.Material.Light.NoActionBar"
+19-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:3:112-175
+20        android:usesCleartextTraffic="false" >
+20-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:3:176-212
+21        <activity
+21-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:4:9-9:20
+22            android:name="com.amit.studentmanager.MainActivity"
+22-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:4:19-47
+23            android:exported="true" >
+23-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:4:48-71
+24            <intent-filter>
+24-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:5:13-8:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:6:17-69
+25-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:6:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:7:17-77
+27-->C:\Users\dell\Downloads\StudentManagerAndroid_Project\StudentManagerAndroid\app\src\main\AndroidManifest.xml:7:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>
